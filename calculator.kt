@@ -45,7 +45,7 @@ fun main() {
     if (choice != 6 && choice != 8){
         print("Enter second number: ")
     }
-    val num2 = if (choice != 6 && choice != 7) scanner.nextDouble() else 0.0
+    val num2 = if (choice != 6 && choice != 8) scanner.nextDouble() else 0.0
 
     // Perform the calculation based on user choice
     // stretch challenge to use when keyword
@@ -78,7 +78,7 @@ fun main() {
         8 -> println("Result: ${factorial(num1.toInt())}")
         // logarithm
         9 -> println("Result: ${logarithm(num1,num2)}")
-        else -> println("Invalid choice. Please choose a number between 1 and 7.")
+        else -> println("Invalid choice. Please choose a number between 1 and 9.")
     }
 
     // close scanner since user input is done
