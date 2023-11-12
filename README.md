@@ -9,7 +9,7 @@ I created a basic arithmetic command line calculator where the user inputs two n
 <!-- {Describe your purpose for writing this software.} -->
 I wrote this as a way to calculate simple equations, some of which a regular four function calculator cannot do.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
+<!-- {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.} -->
 
 [Software Demo Video](http://youtube.link.goes.here)
 
@@ -25,13 +25,16 @@ I used Kotlin and imported scanner for user input and math libraries for calcula
 
 <!-- {Make a list of websites that you found helpful in this project} -->
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [In Kotlin](https://in-kotlin.com/ide/vscode/setup-vscode-for-kotlin-development/)
+- [Kotlin](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.math/)
+- [Code Academy](https://www.codecademy.com/resources/docs/kotlin/math-methods/log)
+- [Kotlin](https://discuss.kotlinlang.org/t/proper-way-to-return-exit-code-from-main-function/2462)
+- [Geeks For Geeks](https://www.geeksforgeeks.org/kotlin-when-expression/)
 
 # Future Work
 
 <!-- {Make a list of things that you need to fix, improve, and add in the future.} -->
 
-- Item 1
-- Item 2
-- Item 3
+- In the future, I could add a choice to input multiple numbers.
+- I could also implement more functions for more math equations.
+- I could also add a way to continue calculating and track history.
