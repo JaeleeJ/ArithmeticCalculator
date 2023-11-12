@@ -11,7 +11,7 @@ I wrote this as a way to calculate simple equations, some of which a regular fou
 
 <!-- {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.} -->
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/5X1U1oav6Yc)
 
 # Development Environment
 
